@@ -1,0 +1,8 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:bib="http://supnum.mr/bib">
+  <soap:Body>
+    <bib:rendreLivre>
+      <numeroEmprunt>XYZ</numeroEmprunt>
+    </bib:rendreLivre>
+  </soap:Body>
+</soap:Envelope>
